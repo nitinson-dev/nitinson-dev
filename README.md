@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Scala and Cloud Computing**.
+- 🔭 I’m currently working on **Scala**.
 - 🌱 I’m currently learning **Ansible and Azure Cloud**.
 - 💬 Ask me about **Software Design and Development, Integration, Debugging, API Design, Security and Testing** 
 
